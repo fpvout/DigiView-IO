@@ -10,3 +10,12 @@ This repository is for hardware development of Pi CM4 IO Boards for DigiView SBC
 
 
 Raspberry Pi and the Raspberry Pi logo are trademarks of the Raspberry Pi Foundation
+ 
+  
+   
+    
+This project is proudly sponsored by PCBWay. Please consider using PCBWay if you have these PCBs fabricated.
+![GitHub Logo](/images/PCBWay.png)
+
+
+ 
