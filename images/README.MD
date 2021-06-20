@@ -2,4 +2,4 @@ This project is proudly sponsored by PCBWay. Please consider using PCBWay if you
  
 
 ![GitHub Logo](/images/PCBWay.png)
-Format: ![PCBWay](https://www.pcbway.com)
+![PCBWay](https://www.pcbway.com)
