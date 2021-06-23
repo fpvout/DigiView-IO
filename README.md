@@ -16,7 +16,7 @@ Raspberry Pi and the Raspberry Pi logo are trademarks of the Raspberry Pi Founda
  
   
    
-    
+# Sponsors
 This project is proudly sponsored by PCBWay. Please consider supporting the companies that support FPVOut, by using PCBWay if you have our PCBs fabricated!
 
 ![GitHub Logo](/images/PCBWay.png)
