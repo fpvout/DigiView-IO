@@ -1,0 +1,107 @@
+{
+  "uuid": "2fa324fd7c2afedd7d232d5398fd6387",
+  "path": "Offline/HiRose 26 Pin Coaxial to FFC",
+  "name": "HiRose 26 Pin Coaxial to FFC",
+  "content": "",
+  "created_at": "2021-06-22 22:22:33",
+  "updated_at": "2021-06-23 09:46:54",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "36998db6b71599d5bf913dcfd449e7ab",
+      "title": "HiRose 26 Pin to FFC",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "05c280a5e1ed455c8740b0d056bf6fde": 1,
+        "18fac78c0f5f4ccfa51750310401aee6": 1,
+        "76d1280f2be942b4a7894b917959b68f": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "DF56C-26S-0.3V(51)",
+          1,
+          "DF56C-26S-0.3V(51)",
+          "P1",
+          {
+            "BOM_Manufacturer": "Hirose Connector",
+            "BOM_Manufacturer Part": "DF56C-26S-0.3V(51)",
+            "BOM_Supplier Part": "798-DF56C-26S-0.3V51",
+            "BOM_Supplier": "Mouser",
+            "puuid": "3bc6fac7b6da48668d3043aa85ffd376",
+            "uuid": "05c280a5e1ed455c8740b0d056bf6fde"
+          }
+        ],
+        [
+          "54548-2271",
+          1,
+          "54548-2271",
+          "J1",
+          {
+            "BOM_Manufacturer": "Molex",
+            "BOM_Manufacturer Part": "0545482271",
+            "BOM_Supplier": "Digi-Key",
+            "BOM_Supplier Part": "545482271",
+            "puuid": "acc233d8d8c64a158ca98473fe882dc6",
+            "uuid": "18fac78c0f5f4ccfa51750310401aee6"
+          }
+        ],
+        [
+          "Header-Female-2.54_1x5",
+          2,
+          "HDR-TH_5P-P2.54-V",
+          "H1,H2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "2.54mm 1*5p Female header",
+            "BOM_Supplier Part": "C50950",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "bb9c6c8fa19b477099719a0996c07c32",
+            "uuid": "76d1280f2be942b4a7894b917959b68f"
+          }
+        ]
+      ],
+      "updateTime": 1624428385,
+      "createTime": 1622809635,
+      "histories": [],
+      "created_at": "2021-06-04 08:27:15",
+      "updated_at": "2021-06-23 02:06:25"
+    },
+    {
+      "uuid": "a8efefb0c6617afe731a3303d2476255",
+      "puuid": "2fa324fd7c2afedd7d232d5398fd6387",
+      "title": "PCB_2021-06-23_01-34-35",
+      "filename": "PCB_2021-06-23_01-34-35.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "3bc6fac7b6da48668d3043aa85ffd376": 1,
+        "bb9c6c8fa19b477099719a0996c07c32": 2,
+        "acc233d8d8c64a158ca98473fe882dc6": 1
+      },
+      "BOM": [],
+      "updateTime": 1624456014,
+      "createTime": 1624426475,
+      "histories": [],
+      "created_at": "2021-06-23 01:34:35",
+      "updated_at": "2021-06-23 09:46:54"
+    }
+  ],
+  "sort": [],
+  "title": "HiRose 26 Pin Coaxial to FFC",
+  "foldername": "HiRose 26 Pin Coaxial to FFC",
+  "schfilename": "HiRose 26 Pin Coaxial to FFC.json",
+  "schfilemtime": 1624428385336
+}
