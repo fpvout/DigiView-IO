@@ -3,10 +3,13 @@
 # DigiView-IO
 This repository is for hardware development of Pi CM4 IO Boards for DigiView SBC
 
-# Inspiration
+# Files
+- Gerber files are published as releases
+- EasyEDA files are in the Main repo
+- PDF versions of schematics are in the Main repo
 
-* [Official Raspberry Pi CM4 IO Board](https://www.raspberrypi.org/products/compute-module-4-io-board/) - includes links to KiCad files and documentation
-* [timonsku's Minimal Rpi CM 4 Carrier Board](https://github.com/timonsku/Minimal-RPi-CM-4-Carrier) - includes Eagle files and links to Hackaday article
+# Help Wanted
+If you want to assist with our projects, please join us on [Discord](https://discord.gg/dVWAc8Hj). Tag one of the devs and let them know you're interested in helping out with electronic engineering!
 
 
 Raspberry Pi and the Raspberry Pi logo are trademarks of the Raspberry Pi Foundation
